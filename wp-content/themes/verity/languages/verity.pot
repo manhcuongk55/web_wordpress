@@ -1,0 +1,983 @@
+# Copyright (C) 2017 Catch Themes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Verity\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2018-03-06 14:12+0545\n"
+"PO-Revision-Date: 2016-12-07 00:45-0500\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:21 ../archive-jetpack-portfolio.php:20
+#: ../archive-jetpack-testimonial.php:28 ../archive.php:23 ../search.php:23
+#: ../template-parts/content/content-none.php:18
+#: ../template-parts/content/content-page.php:19
+#: ../template-parts/content/content-single.php:22
+#: ../template-parts/content/content.php:32
+#: ../template-parts/header/header-media.php:40
+#: ../template-parts/portfolio/content-portfolio-single.php:17
+msgid "Square"
+msgstr ""
+
+#: ../404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:36
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:54
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive-jetpack-testimonial.php:23
+msgid "Testimonials"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:56 ../comments.php:80
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:59 ../comments.php:83
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:60 ../comments.php:84
+msgctxt "comment navigation separator"
+msgid "&middot;"
+msgstr ""
+
+#: ../comments.php:61 ../comments.php:85
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:98
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:54
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:55 ../template-parts/navigation/navigation-primary.php:73
+#: ../template-parts/navigation/navigation-primary.php:100
+msgid "Social Menu"
+msgstr ""
+
+#: ../functions.php:162
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:167
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:172
+msgctxt "Amatic SC font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:217
+msgid "expand child menu"
+msgstr ""
+
+#: ../functions.php:218
+msgid "collapse child menu"
+msgstr ""
+
+#: ../header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/breadcrumb.php:21
+msgid "Home"
+msgstr ""
+
+#: ../inc/breadcrumb.php:22
+#, php-format
+msgid "%1$s Archive for %2$s"
+msgstr ""
+
+#: ../inc/breadcrumb.php:23
+#, php-format
+msgid "%1$sSearch results for: %2$s"
+msgstr ""
+
+#: ../inc/breadcrumb.php:24
+#, php-format
+msgid "%1$sPosts tagged %2$s"
+msgstr ""
+
+#: ../inc/breadcrumb.php:25
+#, php-format
+msgid "%1$sView all posts by %2$s"
+msgstr ""
+
+#: ../inc/breadcrumb.php:26
+msgid "Error 404"
+msgstr ""
+
+#: ../inc/breadcrumb.php:69 ../inc/breadcrumb.php:70 ../inc/breadcrumb.php:75
+#: ../inc/breadcrumb.php:80 ../template-parts/footer/site-info.php:13
+msgid "Y"
+msgstr ""
+
+#: ../inc/breadcrumb.php:70
+msgid "m"
+msgstr ""
+
+#: ../inc/breadcrumb.php:70 ../inc/breadcrumb.php:76
+msgid "F"
+msgstr ""
+
+#: ../inc/breadcrumb.php:71
+msgid "d"
+msgstr ""
+
+#: ../inc/breadcrumb.php:174
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/custom-header.php:41
+msgid "Default Header Image"
+msgstr ""
+
+#: ../inc/custom-header.php:129
+msgid "Play background video"
+msgstr ""
+
+#: ../inc/custom-header.php:130
+msgid "Pause background video"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:23
+msgid "Theme Instructions"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:27
+msgid "Support"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:31
+msgid "Changelog"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:55
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:67
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+
+#: ../inc/customizer/customizer.php:84
+msgid "Applied when there is no Header Background Media"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:100
+msgid "Header Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:101
+msgid "Applied when there is Header Background Media"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:109
+#: ../template-parts/featured-content/featured-content.php:14
+msgid "Featured"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:114
+msgid "Featured Content Archive Title"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:129
+msgid "Number of items to show on front"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:133 ../inc/customizer/customizer.php:155
+msgid "3"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:134 ../inc/customizer/customizer.php:156
+msgid "6"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:135 ../inc/customizer/customizer.php:157
+msgid "9"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:136 ../inc/customizer/customizer.php:158
+msgid "12"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:137 ../inc/customizer/customizer.php:159
+msgid "Disable"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:151
+msgid "Number of items to show on frontpage"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:166
+msgid ""
+"Caution: Reset all settings to default. Refresh the page after save to view "
+"full effects."
+msgstr ""
+
+#: ../inc/customizer/customizer.php:167
+msgid "Reset all settings"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:177
+msgid "Check to reset all settings to default"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:185 ../inc/customizer/customizer.php:196
+msgid "Important Links"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:10
+msgid "Homepage / Frontpage"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:11
+msgid "Entire Site"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:12
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:25
+msgid "Demo"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:26 ../inc/extras.php:278
+#: ../template-parts/content/content-front.php:33
+#: ../template-parts/content/content-hero.php:42
+#: ../template-parts/content/content-page.php:30
+#: ../template-parts/content/content-single.php:37
+#: ../template-parts/content/content.php:47
+#: ../template-parts/portfolio/content-portfolio-single.php:27
+msgid "Page"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:39
+msgid "Default(Older Posts/Newer Posts)"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:40
+msgid "Numeric"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:41
+msgid "Infinite Scroll (Click)"
+msgstr ""
+
+#: ../inc/customizer/helpers.php:42
+msgid "Infinite Scroll (Scroll)"
+msgstr ""
+
+#: ../inc/customizer/hero-content.php:14
+msgid "Hero Content Options"
+msgstr ""
+
+#: ../inc/customizer/hero-content.php:24
+msgid "Select Page"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:15
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:21
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site with just a glance. You can enable/disable them on homepage and "
+"entire site."
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:23
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:32
+msgid "Check to enable Breadcrumb"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:39
+msgid "Header Media Options"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:44
+#: ../template-parts/header/header-media.php:15
+msgid "This is Header Media Text."
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:49
+msgid "Header Media Text"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:55
+msgid "Menu Options"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:66
+msgid "Menu Type"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:70
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:71
+msgid "Classic"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:76
+msgid "Layout Options"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:87
+msgid "Layout for Singular Post Types like Post, Page"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:88
+msgid "Singular Content Layout"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:92
+msgid "Left Sidebar ( Primary Sidebar, Content )"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:93
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:100
+msgid "Excerpt Options"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:109
+msgid "Excerpt length. Default is 30 words"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:116
+msgid "Excerpt Length (words)"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:123 ../inc/extras.php:171
+#: ../inc/extras.php:196 ../inc/extras.php:224
+msgid "Continue reading"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:128
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:136
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:138
+msgid "Homepage / Frontpage Options"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:147
+msgid "Select Categories"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:159
+msgid "Check to Enable Recent Posts on Static Frontpage"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:167
+#, php-format
+msgid ""
+"Infinite Scroll Options requires %1$sJetPack Plugin%2$s with Infinite Scroll "
+"module Enabled."
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:172
+msgid "Pagination Options"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:182
+msgid "Pagination type"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:191
+msgid "Scrollup Options"
+msgstr ""
+
+#: ../inc/customizer/theme-options.php:199
+msgid "Check to disable Scroll Up"
+msgstr ""
+
+#: ../inc/extras.php:134
+msgid "Scroll Up"
+msgstr ""
+
+#: ../inc/extras.php:276
+msgid "Previous"
+msgstr ""
+
+#: ../inc/extras.php:277
+msgid "Next"
+msgstr ""
+
+#: ../inc/icon-functions.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: ../inc/icon-functions.php:43
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: ../inc/jetpack.php:71
+msgid ""
+"The featured content section displays on the front page above the header."
+msgstr ""
+
+#: ../inc/template-tags.php:19
+#, php-format
+msgid "<span class=\"author-label\">By </span>%s"
+msgstr ""
+
+#: ../inc/template-tags.php:48
+#, php-format
+msgid "<span class=\"date-label screen-reader-text\">Posted on </span>%s"
+msgstr ""
+
+#: ../inc/template-tags.php:61 ../inc/template-tags.php:175
+#: ../inc/template-tags.php:284
+#: ../template-parts/portfolio/content-portfolio-single.php:43
+#: ../template-parts/portfolio/content-portfolio-single.php:44
+#: ../template-parts/portfolio/content-portfolio-single.php:50
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:80
+#: ../template-parts/portfolio/content-portfolio-single.php:46
+msgid "Categories: "
+msgstr ""
+
+#: ../inc/template-tags.php:84
+msgid "Tags: "
+msgstr ""
+
+#: ../inc/template-tags.php:113
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:177
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:183
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:183
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:183
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:190 ../template-parts/content/content-front.php:45
+#: ../template-parts/content/content-hero.php:54
+#: ../template-parts/content/content-page.php:42
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../inc/template-tags.php:230
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:230 ../inc/template-tags.php:248
+#: ../template-parts/portfolio/content-portfolio-single.php:57
+#: ../template-parts/testimonial/content-testimonial.php:22
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:244
+#, php-format
+msgid "%s <span class=\"says screen-reader-text\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:247
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../inc/template-tags.php:259
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/upgrade-button/class-customize.php:76
+msgid "Verity Pro"
+msgstr ""
+
+#: ../inc/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:40
+msgid "Read More ..."
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:45
+msgid "Displays featured posts with thumbnails"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:54
+msgid "CT: Recent Posts"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:68 ../inc/widgets/instagram.php:58
+#: ../inc/widgets/social-icons.php:116
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:73
+msgid "No. of Posts"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:79
+msgid "Check to Disable Image"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:83
+msgid "Image Alignment"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:87
+msgid "Top"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:88
+msgid "Left"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:89
+msgid "Right"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:90
+msgid "Center"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:101
+msgid "Image Size"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:113
+msgid "Check to Disable Title"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:117
+msgid "Post Meta Info"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:119
+msgid "Check to Hide Category"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:121
+msgid "Check to Hide Tags"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:123
+msgid "Check to Hide Posted On Date"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:125
+msgid "Check Hide to Author"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:129
+msgid "Content Type"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:131
+msgid "Show Content"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:132
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:133
+msgid "Show Content Limit"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:134
+msgid "No Content"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:137
+msgid "Limit content to"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:139
+msgid "characters"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:144
+msgid "More Text (if applicable)"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:27
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:33
+msgid "View on Instagram"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:38
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:47
+msgid "CT: Instagram"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:63
+msgid "Username"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:68
+msgid "Layout"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:72
+msgid "1 Column"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:73
+msgid "2 Columns"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:74
+msgid "3 Columns"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:75
+msgid "4 Columns"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:76
+msgid "5 Columns"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:77
+msgid "6 Columns"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:78
+msgid "7 Columns"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:79
+msgid "8 Columns"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:90
+msgid "Number of photos"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:95
+msgid "Instagram Image Size"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:99
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:100
+msgid "Small"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:101
+msgid "Large"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:102
+msgid "Original"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:114
+msgid "Check to Open Link in new Tab/Window"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:118
+msgid "Link text"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:222
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: ../inc/widgets/instagram.php:226
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: ../inc/widgets/instagram.php:234 ../inc/widgets/instagram.php:241
+#: ../inc/widgets/instagram.php:245
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: ../inc/widgets/instagram.php:268
+msgid "Instagram Image"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:299
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: ../inc/widgets/social-icons.php:33
+msgid "Use this widget to add Social Menu"
+msgstr ""
+
+#: ../inc/widgets/social-icons.php:42
+msgid "CT: Social Icons"
+msgstr ""
+
+#: ../inc/widgets/social-icons.php:111
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../inc/widgets/social-icons.php:120
+msgid "Select Menu:"
+msgstr ""
+
+#: ../inc/widgets/social-icons.php:122
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:18
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:20
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../inc/widgets/widgets.php:28
+msgid "Footer 1"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:30 ../inc/widgets/widgets.php:40
+#: ../inc/widgets/widgets.php:50
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: ../inc/widgets/widgets.php:38
+msgid "Footer 2"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:48
+msgid "Footer 3"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:110 ../inc/widgets/widgets.php:120
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: ../inc/widgets/widgets.php:113
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:123
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:144
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:153
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr ""
+
+#: ../search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../template-parts/content/content-front.php:29
+#: ../template-parts/content/content-hero.php:38
+#: ../template-parts/content/content-page.php:26
+#: ../template-parts/content/content-single.php:33
+#: ../template-parts/content/content.php:43
+#: ../template-parts/portfolio/content-portfolio-single.php:23
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content/content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content/content-single.php:28
+#: ../template-parts/content/content.php:38
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../template-parts/content/content-single.php:62
+#: ../template-parts/portfolio/content-portfolio-single.php:68
+msgid "Next Post "
+msgstr ""
+
+#: ../template-parts/content/content-single.php:63
+#: ../template-parts/portfolio/content-portfolio-single.php:69
+msgid "Previous Post "
+msgstr ""
+
+#: ../template-parts/content/content-single.php:63
+#: ../template-parts/portfolio/content-portfolio-single.php:69
+msgid "Previous post:"
+msgstr ""
+
+#: ../template-parts/featured-content/featured-content.php:26
+#: ../template-parts/footer/footer-widgets.php:17
+#: ../template-parts/portfolio/portfolio.php:33
+#: ../template-parts/recent-posts/recent-posts.php:14
+msgid "Curve"
+msgstr ""
+
+#: ../template-parts/footer/site-info.php:13
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved"
+msgstr ""
+
+#: ../template-parts/footer/site-info.php:13
+msgid "by"
+msgstr ""
+
+#: ../template-parts/header/header-media.php:18
+msgid ""
+"You can edit this from Appearance -> Customize -> Theme Options -> Header "
+"Media Options -> Header Media Text"
+msgstr ""
+
+#: ../template-parts/navigation/navigation-primary.php:15
+msgid "Menu"
+msgstr ""
+
+#: ../template-parts/navigation/navigation-primary.php:20
+#: ../template-parts/navigation/navigation-primary.php:31
+msgid "Primary Menu"
+msgstr ""
+
+#: ../template-parts/navigation/navigation-primary.php:44
+#: ../template-parts/navigation/navigation-primary.php:93
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../template-parts/navigation/navigation-primary.php:88
+msgid "Search"
+msgstr ""
+
+#: ../template-parts/portfolio/content-portfolio-single.php:53
+msgid "Tags:  "
+msgstr ""
+
+#: ../template-parts/portfolio/portfolio.php:21
+msgid "Portfolio"
+msgstr ""
+
+#: ../template-parts/recent-posts/front-recent-posts.php:108
+msgid "More Posts"
+msgstr ""
+
+#: ../template-parts/recent-posts/recent-posts-front-page.php:11
+#: ../template-parts/recent-posts/recent-posts.php:11
+msgid "Recent Posts"
+msgstr ""
